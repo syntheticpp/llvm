@@ -40,6 +40,7 @@ projects/*
 !projects/Makefile
 # Clang, which is tracked independently.
 tools/clang
+tools/cling
 # LLDB, which is tracked independently.
 tools/lldb
 # lld, which is tracked independently.
